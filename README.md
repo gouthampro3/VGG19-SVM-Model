@@ -11,4 +11,4 @@ This implementation is based on a research paper by professors Dr. Rajesh Kanna 
 
 **data.zip** contains the dataset.
 
-Note: - Code is not commented. 
+Note: - Code is not commented. To view ipynb files go to html directory. The ipynb files are converted into html for easy access in browser itself.
