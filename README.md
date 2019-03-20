@@ -9,4 +9,6 @@ This implementation is based on a research paper by professors Dr. Rajesh Kanna 
 
 **svm.ipynb** contains the code to train SVM on the features extracted from the finetuned model. This trained model can be used to predict if a image has malaria or not.
 
+**data.zip** contains the dataset.
+
 Note: - Code is not commented. 
